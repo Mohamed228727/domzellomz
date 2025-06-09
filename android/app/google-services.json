@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67595950425",
+    "firebase_url": "https://mwslaty-authentication-default-rtdb.firebaseio.com",
+    "project_id": "mwslaty-authentication",
+    "storage_bucket": "mwslaty-authentication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67595950425:android:ca960685f9ca473ec9d448",
+        "android_client_info": {
+          "package_name": "com.example.egypttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67595950425-ud1d9c030mh76ulb5lk6prb1ii1d65eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADaSSGadoV27husO97U5lNF9LmgDmn5BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67595950425-ud1d9c030mh76ulb5lk6prb1ii1d65eu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67595950425-cpqklgrcui9t3q8v6p5plfpad9hjsb1m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.egypttest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
