@@ -72,7 +72,7 @@ class ChatService {
         return TransferResult(success: false, error: 'Amount must be greater than 0');
       }
 
-      print('🎯 Starting transfer: $amount EGP from $currentUserId to $receiverId');
+      print(' Starting transfer: $amount EGP from $currentUserId to $receiverId');
 
       // Get sender and receiver data
       final sender = await PassengerModel.getPassenger(currentUserId);
@@ -239,3 +239,5 @@ class ChatService {
     return await ChatModel.getOrCreateChat(otherUserId);
   }
 }
+
+
